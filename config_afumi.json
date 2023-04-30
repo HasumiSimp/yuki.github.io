@@ -1,5 +1,5 @@
 {
-    "init_phones": ["Base-line IE Neutral Testing"],
+    "init_phones": ["Base-line IE Neutral"],
     "default_channels": ["L","R"],
     "default_normalization": "Hz",
     "default_norm_db": 60,
@@ -40,8 +40,8 @@
     "advanced": {
         "headerLinks": [
             {
-                "name": "Home Page",
-                "url": "https://xerus-db.github.io/"
+                "name": "Apple House Sound",
+                "url": "https://discord.gg/applehousesound"
             }
         ],
         "footerLinks": [
@@ -58,15 +58,19 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["Base-line IE Neutral Testing", "Obviously Supperior 2 Nipples"]
+                "files": ["Base-line IE Neutral"]
             },
             {
                 "type": "Reference",
-                "files": ["Harman IE 2019v2", "Harman IE 2016", "Diffuse Field"]
+                "files": ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF"]
             },
             {
-                "type": "Other",
-                "files": ["PaulWasabii"]
+                "type": "Aster Targets",
+                "files": ["Aster Calm", "Aster Dynamic", "Aster Hypocrisy"]
+            },
+            {
+                "type": "Superior Targets",
+                "files": ["Nipples"]
             }
     ]
     }

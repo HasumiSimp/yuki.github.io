@@ -1,4 +1,4 @@
-* Objective Base-line of IE Neutral Testing for Afumi Target Testing
+* Objective Base-line of IE Neutral 
 *
 * Freq(Hz) SPL(dB)
 19.952816 69.427
