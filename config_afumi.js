@@ -50,11 +50,11 @@ var init_phones = ["Base-line IE Neutral"],                             // Optio
 function watermark(svg) {
     let wm = svg.append("g")
         .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
-        .attr("opacity",0.2);
+        .attr("opacity",0.5);
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-64, y:-64, width:128, height:128, "xlink:href":watermark_image_url});
+            .attrs({x:230, y:58, width:150, height:150, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
