@@ -2,15 +2,6 @@
   {
     "name" : "KZ",
     "phones" : [
-      {
-        "name" : "PR1 Balanced",
-        "file" : [
-          "KZ PR1 Balanced Asterism Mod L"
-        ],
-        "suffix" : [
-          "Asterism Mod L"
-        ]
-      }
     ]
   }
 ]
