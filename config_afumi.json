@@ -13,7 +13,7 @@
     "site_url": "./",    
     "share_url": true,     
     "watermark_text": "",
-    "watermark_text2": "",
+    "watermark_text2": "xerus-db.github.io",
     "watermark_image_url": "img/xerus-db.png", 
     "page_title": "Xerus Graph Database",
     "page_description": "Database of headphone's frequency response",
@@ -74,7 +74,7 @@
             },
 			{
                 "type": "Chad",
-                "files": ["Superior Nipples", "Roblox", "Triangular", "Absolute Mud", "Mountains", "Max Resolution", "Tech Enabler", "Turbo Bass", "Treble Heaven" ]
+                "files": ["Superior Nipples", "Roblox", "Triangular", "Absolute Mud", "Max Resolution", "Turbo Bass", "Sonorous Highs" ]
             }
     ]
     }
