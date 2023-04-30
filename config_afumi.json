@@ -62,7 +62,7 @@
             },
             {
                 "type": "Reference",
-                "files": ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF"]
+                "files": ["Diffuse Field", "Etymotic Target", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF"]
             },
             {
                 "type": "Aster",
