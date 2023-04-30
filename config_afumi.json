@@ -40,7 +40,7 @@
     "advanced": {
         "headerLinks": [
             {
-                "name": "Join Apple House Sound (*μ_μ)",
+                "name": "Join the Apple House Sound Server (^.~)☆",
                 "url": "https://discord.gg/applehousesound"
             }
         ],
@@ -68,9 +68,13 @@
                 "type": "Aster",
                 "files": ["Aster Calm", "Aster Dynamic", "Aster Hypocrisy"]
             },
-            {
+			{
+                "type": "Community",
+                "files": ["Sharur", "coda", "SEAP", "Afumi DT6IE" ]
+            },
+			{
                 "type": "Chad",
-                "files": ["Nipples V1"]
+                "files": ["Superior Nipples", "Roblox", "Triangular", "Absolute Mud", "Mountains", "Max Resolution", "Tech Enabler", "Turbo Bass", "Treble Heaven" ]
             }
     ]
     }
