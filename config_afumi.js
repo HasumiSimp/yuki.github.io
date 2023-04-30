@@ -1,7 +1,7 @@
 
 
 // Configuration options
-var init_phones = ["Base-line IE Neutral Testing"],                             // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+var init_phones = ["Base-line IE Neutral"],                             // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                          // Directory where graph files are stored
       DBDIR = "data/audio_db/",
       TARGETDIR = "data/targets/",
@@ -72,8 +72,8 @@ let headerLogoText = "",
 headerLogoImgUrl = null,
 headerLinks = [
 // {
-//     name: "Home Page",
-//     url: "https://afumi-io.github.io/"
+//     name: "Apple House Sound",
+//     url: "https://discord.gg/applehousesound"
 // }
 ];
 
@@ -131,11 +131,13 @@ let tutorialDefinitions = [
 // Specify which targets to display
 let targets = [
     // { type:"Main",   
-    //     files: ["Afumi DT6IE", "Afumi DT10IE", "Base-line IE Neutral Testing", "Obviously Supperior 2 Nipples"] },
+    //     files: ["Base-line IE Neutral"] },
     // { type:"Reference",
-    //     files: ["Harman IE 2019v2", "Harman IE 2016", "Diffuse Field"] },
-    // { type:"Other",   
-    //     files: ["PaulWasabii"] }
+    //     files: ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF"] },
+	// { type:"Aster Targets",   
+    //     files: ["Aster Calm", "Aster Dynamic", "Aster Hypocrisy"] },
+    // { type:"Chad Targets",   
+    //     files: ["Nipples"] }
 ];
 
 
