@@ -72,7 +72,7 @@ let headerLogoText = "",
 headerLogoImgUrl = null,
 headerLinks = [
 // {
-//     name: "Apple House Sound",
+//     name: "Join Apple House Sound (*μ_μ)",
 //     url: "https://discord.gg/applehousesound"
 // }
 ];
@@ -80,11 +80,11 @@ headerLinks = [
 // Configure external links to appear at the bottom of the page. Displayed only if externalLinksBar (above) is true
 let linkSets = [
     // {
-    //     label: "IEM graph databases",
+    //     label: "Other Databases",
     //     links: [
     //         {
-    //             name: "Paul Wasabi",
-    //             url: "https://pw.squig.link/"
+    //             name: "Afumi IE",
+    //             url: "afumi-io.github.io"
     //         }
     //     ]
     // }
@@ -134,10 +134,10 @@ let targets = [
     //     files: ["Base-line IE Neutral"] },
     // { type:"Reference",
     //     files: ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF"] },
-	// { type:"Aster Targets",   
+	// { type:"Aster",   
     //     files: ["Aster Calm", "Aster Dynamic", "Aster Hypocrisy"] },
-    // { type:"Chad Targets",   
-    //     files: ["Nipples"] }
+    // { type:"Chad",   
+    //     files: ["Nipples V1"] }
 ];
 
 
