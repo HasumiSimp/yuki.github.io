@@ -1,9 +1,9 @@
 {
-    "init_phones": ["Afumi DT6IE"],
+    "init_phones": ["Base-line IE Neutral Testing"],
     "default_channels": ["L","R"],
     "default_normalization": "Hz",
     "default_norm_db": 60,
-    "default_norm_hz": 500,   
+    "default_norm_hz": 800,
     "max_channel_imbalance": 5,       
     "alt_layout": true,   
     "alt_sticky_graph": true,   
