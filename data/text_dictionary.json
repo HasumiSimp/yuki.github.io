@@ -176,6 +176,15 @@
         "suffix" : [
           ""
         ]
+      },
+      {
+        "name" : "DUO",
+        "file" : [
+          "CCA DUO"
+        ],
+        "suffix" : [
+          ""
+        ]
       }
     ]
   },
