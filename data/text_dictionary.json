@@ -245,5 +245,19 @@
         ]
       }
     ]
+  },
+  {
+    "name" : "Truthear",
+    "phones" : [
+      {
+        "name" : "Nova",
+        "file" : [
+          "Truthear Nova"
+        ],
+        "suffix" : [
+          ""
+        ]
+      }
+    ]
   }
 ]
